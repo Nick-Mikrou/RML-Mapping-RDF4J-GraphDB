@@ -1,0 +1,31 @@
+Results for the QUERY1
+
+Description : This SPARQL query retrieves detailed information about the movies or shows in which a specific actor (with ID "nm0000001") has acted.
+
+
+-------------------- Result 1 --------------------------
+Actor_Name : "Fred Astaire"
+Acted_In : http://movie.example.com/data/movie/tt0031983
+Title : "The Story of Vernon and Irene Castle"
+Type : "movie"
+Start_Year : "1939"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "6.9"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 2 --------------------------
+Actor_Name : "Fred Astaire"
+Acted_In : http://movie.example.com/data/movie/tt0050419
+Title : "Funny Face"
+Type : "movie"
+Start_Year : "1957"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.0"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 3 --------------------------
+Actor_Name : "Fred Astaire"
+Acted_In : http://movie.example.com/data/movie/tt0072308
+Title : "The Towering Inferno"
+Type : "movie"
+Start_Year : "1974"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.0"^^<http://www.w3.org/2001/XMLSchema#float>
+

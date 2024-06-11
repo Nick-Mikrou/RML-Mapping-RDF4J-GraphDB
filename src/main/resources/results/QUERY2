@@ -1,0 +1,196 @@
+Results for the QUERY2
+
+Description : This SPARQL query retrieves details of movies that have an average rating higher than 8.0
+
+
+-------------------- Result 1 --------------------------
+Rates : http://movie.example.com/data/movie/tt0060827
+Movie_Title : "Persona"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 2 --------------------------
+Rates : http://movie.example.com/data/movie/tt0050976
+Movie_Title : "The Seventh Seal"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 3 --------------------------
+Rates : http://movie.example.com/data/movie/tt0050986
+Movie_Title : "Wild Strawberries"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Romance"
+
+
+-------------------- Result 4 --------------------------
+Rates : http://movie.example.com/data/movie/tt0083922
+Movie_Title : "Fanny and Alexander"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 5 --------------------------
+Rates : http://movie.example.com/data/movie/tt0077711
+Movie_Title : "Autumn Sonata"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Music"
+
+
+-------------------- Result 6 --------------------------
+Rates : http://movie.example.com/data/movie/tt0034583
+Movie_Title : "Casablanca"
+Average_Rating : "8.5"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 7 --------------------------
+Rates : http://movie.example.com/data/movie/tt0034583
+Movie_Title : "Casablanca"
+Average_Rating : "8.5"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "War"
+
+
+-------------------- Result 8 --------------------------
+Rates : http://movie.example.com/data/movie/tt0034583
+Movie_Title : "Casablanca"
+Average_Rating : "8.5"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 9 --------------------------
+Rates : http://movie.example.com/data/movie/tt0034583
+Movie_Title : "Casablanca"
+Average_Rating : "8.5"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "War"
+
+
+-------------------- Result 10 --------------------------
+Rates : http://movie.example.com/data/movie/tt0047296
+Movie_Title : "On the Waterfront"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Crime"
+
+
+-------------------- Result 11 --------------------------
+Rates : http://movie.example.com/data/movie/tt0078788
+Movie_Title : "Apocalypse Now"
+Average_Rating : "8.5"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Mystery"
+
+
+-------------------- Result 12 --------------------------
+Rates : http://movie.example.com/data/movie/tt0068646
+Movie_Title : "The Godfather"
+Average_Rating : "9.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Crime"
+
+
+-------------------- Result 13 --------------------------
+Rates : http://movie.example.com/data/movie/tt0042041
+Movie_Title : "White Heat"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Action"
+
+
+-------------------- Result 14 --------------------------
+Rates : http://movie.example.com/data/movie/tt0042192
+Movie_Title : "All About Eve"
+Average_Rating : "8.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 15 --------------------------
+Rates : http://movie.example.com/data/movie/tt0041452
+Movie_Title : "The Heiress"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 16 --------------------------
+Rates : http://movie.example.com/data/movie/tt0031381
+Movie_Title : "Gone with the Wind"
+Average_Rating : "8.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "History"
+
+
+-------------------- Result 17 --------------------------
+Rates : http://movie.example.com/data/movie/tt0039123
+Movie_Title : "Kraft Theatre"
+Average_Rating : "8.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 18 --------------------------
+Rates : http://movie.example.com/data/movie/tt0091763
+Movie_Title : "Platoon"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "War"
+
+
+-------------------- Result 19 --------------------------
+Rates : http://movie.example.com/data/movie/tt0055031
+Movie_Title : "Judgment at Nuremberg"
+Average_Rating : "8.3"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "War"
+
+
+-------------------- Result 20 --------------------------
+Rates : http://movie.example.com/data/movie/tt0051201
+Movie_Title : "Witness for the Prosecution"
+Average_Rating : "8.4"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Mystery"
+
+
+-------------------- Result 21 --------------------------
+Rates : http://movie.example.com/data/movie/tt0043338
+Movie_Title : "Ace in the Hole"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Film-Noir"
+
+
+-------------------- Result 22 --------------------------
+Rates : http://movie.example.com/data/movie/tt0050783
+Movie_Title : "Nights of Cabiria"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 23 --------------------------
+Rates : http://movie.example.com/data/movie/tt0050083
+Movie_Title : "12 Angry Men"
+Average_Rating : "9.0"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+
+
+-------------------- Result 24 --------------------------
+Rates : http://movie.example.com/data/movie/tt0032551
+Movie_Title : "The Grapes of Wrath"
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Adult_Content : "false"^^<http://www.w3.org/2001/XMLSchema#boolean>
+Genre : "Drama"
+

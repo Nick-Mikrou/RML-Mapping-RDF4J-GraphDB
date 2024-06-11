@@ -1,0 +1,64 @@
+Results for the QUERY7
+
+Description : This SPARQL query retrieves movie titles, total ratings, and average ratings for movies categorized as Drama with an average rating higher than 7.5 and total ratings greater than 5000. It orders the results by average rating in descending order and limits the output to the top 10 movies.
+
+
+-------------------- Result 1 --------------------------
+Movie_Title : "12 Angry Men"
+Total_Ratings : "763788"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "9.0"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 2 --------------------------
+Movie_Title : "Casablanca"
+Total_Ratings : "559393"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.5"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 3 --------------------------
+Movie_Title : "Casablanca"
+Total_Ratings : "559393"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.5"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 4 --------------------------
+Movie_Title : "All About Eve"
+Total_Ratings : "129585"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.2"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 5 --------------------------
+Movie_Title : "The Grapes of Wrath"
+Total_Ratings : "91628"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 6 --------------------------
+Movie_Title : "The Heiress"
+Total_Ratings : "15685"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 7 --------------------------
+Movie_Title : "Nights of Cabiria"
+Total_Ratings : "48310"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 8 --------------------------
+Movie_Title : "The Seventh Seal"
+Total_Ratings : "181771"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 9 --------------------------
+Movie_Title : "Persona"
+Total_Ratings : "115595"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 10 --------------------------
+Movie_Title : "Fanny and Alexander"
+Total_Ratings : "63169"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Ratings : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+

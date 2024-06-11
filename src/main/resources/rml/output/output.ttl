@@ -1,0 +1,1340 @@
+
+<http://movie.example.com/data/actor/nm0000001> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0031983>,
+    <http://movie.example.com/data/movie/tt0050419>, <http://movie.example.com/data/movie/tt0072308>,
+    <http://movie.example.comdata/data/movie/tt0053137>;
+  <http://www.example.com/movieontology#hasBirthday> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Fred Astaire";
+  <http://www.example.com/movieontology#id> "nm0000001" .
+
+<http://movie.example.com/data/actor/nm0000002> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0037382>,
+    <http://movie.example.com/data/movie/tt0038355>, <http://movie.example.com/data/movie/tt0071877>,
+    <http://movie.example.comdata/data/movie/tt0117057>;
+  <http://www.example.com/movieontology#hasBirthday> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Lauren Bacall";
+  <http://www.example.com/movieontology#id> "nm0000002" .
+
+<http://movie.example.com/data/actor/nm0000003> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0049189>,
+    <http://movie.example.com/data/movie/tt0054452>, <http://movie.example.com/data/movie/tt0056404>,
+    <http://movie.example.comdata/data/movie/tt0057345>;
+  <http://www.example.com/movieontology#hasBirthday> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Brigitte Bardot";
+  <http://www.example.com/movieontology#id> "nm0000003" .
+
+<http://movie.example.com/data/actor/nm0000004> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0072562>,
+    <http://movie.example.com/data/movie/tt0077975>, <http://movie.example.com/data/movie/tt0080455>,
+    <http://movie.example.comdata/data/movie/tt0078723>;
+  <http://www.example.com/movieontology#hasBirthday> "1949"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "John Belushi";
+  <http://www.example.com/movieontology#id> "nm0000004" .
+
+<http://movie.example.com/data/actor/nm0000005> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0050986>,
+    <http://movie.example.com/data/movie/tt0060827>, <http://movie.example.com/data/movie/tt0083922>,
+    <http://movie.example.comdata/data/movie/tt0050976>;
+  <http://www.example.com/movieontology#hasBirthday> "1918"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Ingmar Bergma";
+  <http://www.example.com/movieontology#id> "nm0000005" .
+
+<http://movie.example.com/data/actor/nm0000006> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0034583>,
+    <http://movie.example.com/data/movie/tt0036855>, <http://movie.example.com/data/movie/tt0077711>,
+    <http://movie.example.comdata/data/movie/tt0038109>;
+  <http://www.example.com/movieontology#hasBirthday> "1915"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Ingrid Bergman";
+  <http://www.example.com/movieontology#id> "nm0000006" .
+
+<http://movie.example.com/data/actor/nm0000007> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0034583>,
+    <http://movie.example.com/data/movie/tt0037382>, <http://movie.example.com/data/movie/tt0042593>,
+    <http://movie.example.comdata/data/movie/tt0043265>;
+  <http://www.example.com/movieontology#hasBirthday> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Humphrey Bogart";
+  <http://www.example.com/movieontology#id> "nm0000007" .
+
+<http://movie.example.com/data/actor/nm0000008> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0047296>,
+    <http://movie.example.com/data/movie/tt0068646>, <http://movie.example.com/data/movie/tt0070849>,
+    <http://movie.example.comdata/data/movie/tt0078788>;
+  <http://www.example.com/movieontology#hasBirthday> "1924"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Marlon Brando";
+  <http://www.example.com/movieontology#id> "nm0000008" .
+
+<http://movie.example.com/data/actor/nm0000009> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0057877>,
+    <http://movie.example.com/data/movie/tt0061184>, <http://movie.example.com/data/movie/tt0087803>,
+    <http://movie.example.comdata/data/movie/tt0059749>;
+  <http://www.example.com/movieontology#hasBirthday> "1925"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Richard Burton";
+  <http://www.example.com/movieontology#id> "nm0000009" .
+
+<http://movie.example.com/data/actor/nm0000010> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0029870>,
+    <http://movie.example.com/data/movie/tt0031867>, <http://movie.example.com/data/movie/tt0035575>,
+    <http://movie.example.comdata/data/movie/tt0042041>;
+  <http://www.example.com/movieontology#hasBirthday> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "James Cagney";
+  <http://www.example.com/movieontology#id> "nm0000010" .
+
+<http://movie.example.com/data/actor/nm0000011> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0027996>,
+    <http://movie.example.com/data/movie/tt0034167>, <http://movie.example.com/data/movie/tt0044706>,
+    <http://movie.example.comdata/data/movie/tt0035896>;
+  <http://www.example.com/movieontology#hasBirthday> "1901"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Gary Cooper";
+  <http://www.example.com/movieontology#id> "nm0000011" .
+
+<http://movie.example.com/data/actor/nm0000012> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0031210>,
+    <http://movie.example.com/data/movie/tt0035140>, <http://movie.example.com/data/movie/tt0056687>,
+    <http://movie.example.comdata/data/movie/tt0042192>;
+  <http://www.example.com/movieontology#hasBirthday> "1908"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Bette Davis";
+  <http://www.example.com/movieontology#id> "nm0000012" .
+
+<http://movie.example.com/data/actor/nm0000013> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0048317>,
+    <http://movie.example.com/data/movie/tt0049470>, <http://movie.example.com/data/movie/tt0053172>,
+    <http://movie.example.comdata/data/movie/tt0045591>;
+  <http://www.example.com/movieontology#hasBirthday> "1922"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Doris Day";
+  <http://www.example.com/movieontology#id> "nm0000013" .
+
+<http://movie.example.com/data/actor/nm0000014> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0031381>,
+    <http://movie.example.com/data/movie/tt0040806>, <http://movie.example.com/data/movie/tt0041452>,
+    <http://movie.example.comdata/data/movie/tt0029843>;
+  <http://www.example.com/movieontology#hasBirthday> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Olivia de Havilland";
+  <http://www.example.com/movieontology#id> "nm0000014" .
+
+<http://movie.example.com/data/actor/nm0000015> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0039123>,
+    <http://movie.example.com/data/movie/tt0048028>, <http://movie.example.com/data/movie/tt0049261>,
+    <http://movie.example.comdata/data/movie/tt0048545>;
+  <http://www.example.com/movieontology#hasBirthday> "1931"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "James Dean";
+  <http://www.example.com/movieontology#id> "nm0000015" .
+
+<http://movie.example.com/data/actor/nm0000016> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0069946>,
+    <http://movie.example.com/data/movie/tt0091763>, <http://movie.example.com/data/movie/tt0096320>,
+    <http://movie.example.comdata/data/movie/tt8847712>;
+  <http://www.example.com/movieontology#hasBirthday> "1925"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Georges Delerue";
+  <http://www.example.com/movieontology#id> "nm0000016" .
+
+<http://movie.example.com/data/actor/nm0000017> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0021156>,
+    <http://movie.example.com/data/movie/tt0051201>, <http://movie.example.com/data/movie/tt0052311>,
+    <http://movie.example.comdata/data/movie/tt0055031>;
+  <http://www.example.com/movieontology#hasBirthday> "1901"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Marlene Dietrich";
+  <http://www.example.com/movieontology#id> "nm0000017" .
+
+<http://movie.example.com/data/actor/nm0000018> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0043338>,
+    <http://movie.example.com/data/movie/tt0049456>, <http://movie.example.com/data/movie/tt0080736>,
+    <http://movie.example.comdata/data/movie/tt0054331>;
+  <http://www.example.com/movieontology#hasBirthday> "1916"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Kirk Douglas";
+  <http://www.example.com/movieontology#id> "nm0000018" .
+
+<http://movie.example.com/data/actor/nm0000019> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0050783>,
+    <http://movie.example.com/data/movie/tt0053779>, <http://movie.example.com/data/movie/tt0071129>,
+    <http://movie.example.comdata/data/movie/tt0056801>;
+  <http://www.example.com/movieontology#hasBirthday> "1920"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Federico Fellini";
+  <http://www.example.com/movieontology#id> "nm0000019" .
+
+<http://movie.example.com/data/actor/nm0000020> a <http://www.example.com/movieontology#Actor>;
+  <http://www.example.com/movieontology#actedIn> <http://movie.example.com/data/movie/tt0050083>,
+    <http://movie.example.com/data/movie/tt0051207>, <http://movie.example.com/data/movie/tt0082846>,
+    <http://movie.example.comdata/data/movie/tt0032551>;
+  <http://www.example.com/movieontology#hasBirthday> "1905"^^<http://www.w3.org/2001/XMLSchema#gYear>;
+  <http://www.example.com/movieontology#hasName> "Henry Fonda";
+  <http://www.example.com/movieontology#id> "nm0000020" .
+
+<http://movie.example.com/data/movie/tt0021156> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Romance";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Morocco";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Morocco";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 92;
+  <http://www.example.com/movieontology#hasStartYear> 1930;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0021156" .
+
+<http://movie.example.com/data/movie/tt0027996> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Comedy";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Mr. Deeds Goes to Town";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Mr. Deeds Goes to Town";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 115;
+  <http://www.example.com/movieontology#hasStartYear> 1936;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0027996" .
+
+<http://movie.example.com/data/movie/tt0029843> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Adventure";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Adventures of Robin Hood";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Adventures of Robin Hood";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 102;
+  <http://www.example.com/movieontology#hasStartYear> 1938;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0029843" .
+
+<http://movie.example.com/data/movie/tt0029870> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Angels with Dirty Faces";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Angels with Dirty Faces";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 97;
+  <http://www.example.com/movieontology#hasStartYear> 1938;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0029870" .
+
+<http://movie.example.com/data/movie/tt0031210> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Dark Victory";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Dark Victory";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 104;
+  <http://www.example.com/movieontology#hasStartYear> 1939;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0031210" .
+
+<http://movie.example.com/data/movie/tt0031381> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "History";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Gone with the Wind";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Gone with the Wind";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 238;
+  <http://www.example.com/movieontology#hasStartYear> 1939;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0031381" .
+
+<http://movie.example.com/data/movie/tt0031867> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Roaring Twenties";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Roaring Twenties";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 106;
+  <http://www.example.com/movieontology#hasStartYear> 1939;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0031867" .
+
+<http://movie.example.com/data/movie/tt0031983> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Biography";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Story of Vernon and Irene Castle";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Story of Vernon and Irene Castle";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 93;
+  <http://www.example.com/movieontology#hasStartYear> 1939;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0031983" .
+
+<http://movie.example.com/data/movie/tt0032551> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Grapes of Wrath";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Grapes of Wrath";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 129;
+  <http://www.example.com/movieontology#hasStartYear> 1940;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0032551" .
+
+<http://movie.example.com/data/movie/tt0034167> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Biography";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Sergeant York";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Sergeant York";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 134;
+  <http://www.example.com/movieontology#hasStartYear> 1941;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0034167" .
+
+<http://movie.example.com/data/movie/tt0034583> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama", "War";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Casablanca";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Casablanca";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 102;
+  <http://www.example.com/movieontology#hasStartYear> 1942;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0034583" .
+
+<http://movie.example.com/data/movie/tt0035140> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Romance";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Now, Voyager";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Now, Voyager";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 117;
+  <http://www.example.com/movieontology#hasStartYear> 1942;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0035140" .
+
+<http://movie.example.com/data/movie/tt0035575> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Biography";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Yankee Doodle Dandy";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Yankee Doodle Dandy";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 126;
+  <http://www.example.com/movieontology#hasStartYear> 1942;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0035575" .
+
+<http://movie.example.com/data/movie/tt0035896> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Adventure";
+  <http://www.example.com/movieontology#hasOriginalTitle> "For Whom the Bell Tolls";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "For Whom the Bell Tolls";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 170;
+  <http://www.example.com/movieontology#hasStartYear> 1943;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0035896" .
+
+<http://movie.example.com/data/movie/tt0036855> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Crime";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Gaslight";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Gaslight";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 114;
+  <http://www.example.com/movieontology#hasStartYear> 1944;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0036855" .
+
+<http://movie.example.com/data/movie/tt0037382> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Adventure", "Film-Noir";
+  <http://www.example.com/movieontology#hasOriginalTitle> "To Have and Have Not";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "To Have and Have Not";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 100;
+  <http://www.example.com/movieontology#hasStartYear> 1944;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0037382" .
+
+<http://movie.example.com/data/movie/tt0038109> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Film-Noir";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Spellbound";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Spellbound";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 111;
+  <http://www.example.com/movieontology#hasStartYear> 1945;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0038109" .
+
+<http://movie.example.com/data/movie/tt0038355> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Crime";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Big Sleep";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Big Sleep";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 114;
+  <http://www.example.com/movieontology#hasStartYear> 1946;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0038355" .
+
+<http://movie.example.com/data/movie/tt0039123> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Kraft Television Theatre";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Kraft Theatre";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 60;
+  <http://www.example.com/movieontology#hasStartYear> 1947;
+  <http://www.example.com/movieontology#hasTitleType> "tvSeries";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0039123" .
+
+<http://movie.example.com/data/movie/tt0040806> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Mystery";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Snake Pit";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Snake Pit";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 108;
+  <http://www.example.com/movieontology#hasStartYear> 1948;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0040806" .
+
+<http://movie.example.com/data/movie/tt0041452> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Heiress";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Heiress";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 115;
+  <http://www.example.com/movieontology#hasStartYear> 1949;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0041452" .
+
+<http://movie.example.com/data/movie/tt0042041> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Action";
+  <http://www.example.com/movieontology#hasOriginalTitle> "White Heat";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "White Heat";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 114;
+  <http://www.example.com/movieontology#hasStartYear> 1949;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0042041" .
+
+<http://movie.example.com/data/movie/tt0042192> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "All About Eve";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "All About Eve";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 138;
+  <http://www.example.com/movieontology#hasStartYear> 1950;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0042192" .
+
+<http://movie.example.com/data/movie/tt0042593> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Film-Noir";
+  <http://www.example.com/movieontology#hasOriginalTitle> "In a Lonely Place";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "In a Lonely Place";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 94;
+  <http://www.example.com/movieontology#hasStartYear> 1950;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0042593" .
+
+<http://movie.example.com/data/movie/tt0043265> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The African Queen";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The African Queen";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 105;
+  <http://www.example.com/movieontology#hasStartYear> 1951;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0043265" .
+
+<http://movie.example.com/data/movie/tt0043338> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Film-Noir";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Ace in the Hole";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Ace in the Hole";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 111;
+  <http://www.example.com/movieontology#hasStartYear> 1951;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0043338" .
+
+<http://movie.example.com/data/movie/tt0044706> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Western";
+  <http://www.example.com/movieontology#hasOriginalTitle> "High Noon";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "High Noon";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 85;
+  <http://www.example.com/movieontology#hasStartYear> 1952;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0044706" .
+
+<http://movie.example.com/data/movie/tt0045591> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Western";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Calamity Jane";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Calamity Jane";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 101;
+  <http://www.example.com/movieontology#hasStartYear> 1953;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0045591" .
+
+<http://movie.example.com/data/movie/tt0047296> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Crime";
+  <http://www.example.com/movieontology#hasOriginalTitle> "On the Waterfront";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "On the Waterfront";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 108;
+  <http://www.example.com/movieontology#hasStartYear> 1954;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0047296" .
+
+<http://movie.example.com/data/movie/tt0048028> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "East of Eden";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "East of Eden";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 118;
+  <http://www.example.com/movieontology#hasStartYear> 1955;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0048028" .
+
+<http://movie.example.com/data/movie/tt0048317> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Music";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Love Me or Leave Me";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Love Me or Leave Me";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 122;
+  <http://www.example.com/movieontology#hasStartYear> 1955;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0048317" .
+
+<http://movie.example.com/data/movie/tt0048545> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Rebel Without a Cause";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Rebel Without a Cause";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 111;
+  <http://www.example.com/movieontology#hasStartYear> 1955;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0048545" .
+
+<http://movie.example.com/data/movie/tt0049189> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Et Dieu... créa la femme";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "...And God Created Woman";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 95;
+  <http://www.example.com/movieontology#hasStartYear> 1956;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0049189" .
+
+<http://movie.example.com/data/movie/tt0049261> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Western";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Giant";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Giant";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 201;
+  <http://www.example.com/movieontology#hasStartYear> 1956;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0049261" .
+
+<http://movie.example.com/data/movie/tt0049456> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Biography";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Lust for Life";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Lust for Life";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 122;
+  <http://www.example.com/movieontology#hasStartYear> 1956;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0049456" .
+
+<http://movie.example.com/data/movie/tt0049470> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Man Who Knew Too Much";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Man Who Knew Too Much";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 120;
+  <http://www.example.com/movieontology#hasStartYear> 1956;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0049470" .
+
+<http://movie.example.com/data/movie/tt0050083> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "12 Angry Men";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "12 Angry Men";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 96;
+  <http://www.example.com/movieontology#hasStartYear> 1957;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0050083" .
+
+<http://movie.example.com/data/movie/tt0050419> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Romance";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Funny Face";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Funny Face";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 103;
+  <http://www.example.com/movieontology#hasStartYear> 1957;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0050419" .
+
+<http://movie.example.com/data/movie/tt0050783> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Le notti di Cabiria";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Nights of Cabiria";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 110;
+  <http://www.example.com/movieontology#hasStartYear> 1957;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0050783" .
+
+<http://movie.example.com/data/movie/tt0050976> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Det sjunde inseglet";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Seventh Seal";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 96;
+  <http://www.example.com/movieontology#hasStartYear> 1957;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0050976" .
+
+<http://movie.example.com/data/movie/tt0050986> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Romance";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Smultronstället";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Wild Strawberries";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 91;
+  <http://www.example.com/movieontology#hasStartYear> 1957;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0050986" .
+
+<http://movie.example.com/data/movie/tt0051201> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Mystery";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Witness for the Prosecution";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Witness for the Prosecution";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 116;
+  <http://www.example.com/movieontology#hasStartYear> 1957;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0051201" .
+
+<http://movie.example.com/data/movie/tt0051207> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Wrong Man";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Wrong Man";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 105;
+  <http://www.example.com/movieontology#hasStartYear> 1956;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0051207" .
+
+<http://movie.example.com/data/movie/tt0052311> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Film-Noir";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Touch of Evil";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Touch of Evil";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 95;
+  <http://www.example.com/movieontology#hasStartYear> 1958;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0052311" .
+
+<http://movie.example.com/data/movie/tt0053137> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Sci-Fi";
+  <http://www.example.com/movieontology#hasOriginalTitle> "On the Beach";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "On the Beach";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 134;
+  <http://www.example.com/movieontology#hasStartYear> 1959;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0053137" .
+
+<http://movie.example.com/data/movie/tt0053172> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Romance";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Pillow Talk";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Pillow Talk";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 102;
+  <http://www.example.com/movieontology#hasStartYear> 1959;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0053172" .
+
+<http://movie.example.com/data/movie/tt0053779> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Comedy";
+  <http://www.example.com/movieontology#hasOriginalTitle> "La dolce vita";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "La Dolce Vita";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 174;
+  <http://www.example.com/movieontology#hasStartYear> 1960;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0053779" .
+
+<http://movie.example.com/data/movie/tt0054331> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Adventure";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Spartacus";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Spartacus";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 197;
+  <http://www.example.com/movieontology#hasStartYear> 1960;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0054331" .
+
+<http://movie.example.com/data/movie/tt0054452> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "La vérité";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "La Vérité";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 128;
+  <http://www.example.com/movieontology#hasStartYear> 1960;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0054452" .
+
+<http://movie.example.com/data/movie/tt0055031> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "War";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Judgment at Nuremberg";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Judgment at Nuremberg";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 179;
+  <http://www.example.com/movieontology#hasStartYear> 1961;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0055031" .
+
+<http://movie.example.com/data/movie/tt0056404> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Romance";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Le repos du guerrier";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Love on a Pillow";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 102;
+  <http://www.example.com/movieontology#hasStartYear> 1962;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0056404" .
+
+<http://movie.example.com/data/movie/tt0056687> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Horror";
+  <http://www.example.com/movieontology#hasOriginalTitle> "What Ever Happened to Baby Jane?";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "What Ever Happened to Baby Jane?";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 134;
+  <http://www.example.com/movieontology#hasStartYear> 1962;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0056687" .
+
+<http://movie.example.com/data/movie/tt0056801> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "8½";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "8½";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 138;
+  <http://www.example.com/movieontology#hasStartYear> 1963;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0056801" .
+
+<http://movie.example.com/data/movie/tt0057345> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Le mépris";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Contempt";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 103;
+  <http://www.example.com/movieontology#hasStartYear> 1963;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0057345" .
+
+<http://movie.example.com/data/movie/tt0057877> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Biography";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Becket";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Becket";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 148;
+  <http://www.example.com/movieontology#hasStartYear> 1964;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0057877" .
+
+<http://movie.example.com/data/movie/tt0059749> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Thriller";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Spy Who Came in from the Cold";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Spy Who Came in from the Cold";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 112;
+  <http://www.example.com/movieontology#hasStartYear> 1965;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0059749" .
+
+<http://movie.example.com/data/movie/tt0060827> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Persona";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Persona";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 85;
+  <http://www.example.com/movieontology#hasStartYear> 1966;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0060827" .
+
+<http://movie.example.com/data/movie/tt0061184> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Who's Afraid of Virginia Woolf?";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Who's Afraid of Virginia Woolf?";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 131;
+  <http://www.example.com/movieontology#hasStartYear> 1966;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0061184" .
+
+<http://movie.example.com/data/movie/tt0068646> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Crime";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Godfather";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Godfather";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 175;
+  <http://www.example.com/movieontology#hasStartYear> 1972;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0068646" .
+
+<http://movie.example.com/data/movie/tt0069946> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Sci-Fi";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Day of the Dolphin";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Day of the Dolphin";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 104;
+  <http://www.example.com/movieontology#hasStartYear> 1973;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0069946" .
+
+<http://movie.example.com/data/movie/tt0070849> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Ultimo tango a Parigi";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Last Tango in Paris";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 129;
+  <http://www.example.com/movieontology#hasStartYear> 1972;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0070849" .
+
+<http://movie.example.com/data/movie/tt0071129> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Comedy";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Amarcord";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Amarcord";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 123;
+  <http://www.example.com/movieontology#hasStartYear> 1973;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0071129" .
+
+<http://movie.example.com/data/movie/tt0071877> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Crime";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Murder on the Orient Express";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Murder on the Orient Express";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 128;
+  <http://www.example.com/movieontology#hasStartYear> 1974;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0071877" .
+
+<http://movie.example.com/data/movie/tt0072308> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Action";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Towering Inferno";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Towering Inferno";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 165;
+  <http://www.example.com/movieontology#hasStartYear> 1974;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0072308" .
+
+<http://movie.example.com/data/movie/tt0072562> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Music";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Saturday Night Live";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Saturday Night Live";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 90;
+  <http://www.example.com/movieontology#hasStartYear> 1975;
+  <http://www.example.com/movieontology#hasTitleType> "tvSeries";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0072562" .
+
+<http://movie.example.com/data/movie/tt0077711> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Music";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Höstsonaten";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Autumn Sonata";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 99;
+  <http://www.example.com/movieontology#hasStartYear> 1978;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0077711" .
+
+<http://movie.example.com/data/movie/tt0077975> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Comedy";
+  <http://www.example.com/movieontology#hasOriginalTitle> "National Lampoon's Animal House";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "National Lampoon's Animal House";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 109;
+  <http://www.example.com/movieontology#hasStartYear> 1978;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0077975" .
+
+<http://movie.example.com/data/movie/tt0078723> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Comedy";
+  <http://www.example.com/movieontology#hasOriginalTitle> "1941";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "1941";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 118;
+  <http://www.example.com/movieontology#hasStartYear> 1979;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0078723" .
+
+<http://movie.example.com/data/movie/tt0078788> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Mystery";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Apocalypse Now";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Apocalypse Now";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 147;
+  <http://www.example.com/movieontology#hasStartYear> 1979;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0078788" .
+
+<http://movie.example.com/data/movie/tt0080455> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Comedy";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Blues Brothers";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Blues Brothers";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 133;
+  <http://www.example.com/movieontology#hasStartYear> 1980;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0080455" .
+
+<http://movie.example.com/data/movie/tt0080736> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Sci-Fi";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Final Countdown";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Final Countdown";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 103;
+  <http://www.example.com/movieontology#hasStartYear> 1980;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0080736" .
+
+<http://movie.example.com/data/movie/tt0082846> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "On Golden Pond";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "On Golden Pond";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 109;
+  <http://www.example.com/movieontology#hasStartYear> 1981;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0082846" .
+
+<http://movie.example.com/data/movie/tt0083922> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Fanny och Alexander";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Fanny and Alexander";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 188;
+  <http://www.example.com/movieontology#hasStartYear> 1982;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0083922" .
+
+<http://movie.example.com/data/movie/tt0087803> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Sci-Fi";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Nineteen Eighty-Four";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "1984";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 113;
+  <http://www.example.com/movieontology#hasStartYear> 1984;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0087803" .
+
+<http://movie.example.com/data/movie/tt0091763> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "War";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Platoon";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Platoon";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 120;
+  <http://www.example.com/movieontology#hasStartYear> 1986;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0091763" .
+
+<http://movie.example.com/data/movie/tt0096320> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Crime";
+  <http://www.example.com/movieontology#hasOriginalTitle> "Twins";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "Twins";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 107;
+  <http://www.example.com/movieontology#hasStartYear> 1988;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0096320" .
+
+<http://movie.example.com/data/movie/tt0117057> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Comedy";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The Mirror Has Two Faces";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The Mirror Has Two Faces";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 126;
+  <http://www.example.com/movieontology#hasStartYear> 1996;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt0117057" .
+
+<http://movie.example.com/data/movie/tt8847712> a <http://www.example.com/movieontology#Movie>;
+  <http://www.example.com/movieontology#hasGenres> "Drama";
+  <http://www.example.com/movieontology#hasOriginalTitle> "The French Dispatch";
+  <http://www.example.com/movieontology#hasPrimaryTitle> "The French Dispatch";
+  <http://www.example.com/movieontology#hasRuntimeMinutes> 107;
+  <http://www.example.com/movieontology#hasStartYear> 2021;
+  <http://www.example.com/movieontology#hasTitleType> "movie";
+  <http://www.example.com/movieontology#isAdultContent> false;
+  <http://www.example.com/movieontology#tconst> "tt8847712" .
+
+<http://movie.example.com/data/rating/1> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 43182;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0072308> .
+
+<http://movie.example.com/data/rating/10> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.5"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 31543;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0057345> .
+
+<http://movie.example.com/data/rating/11> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.3"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 8350;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0049189> .
+
+<http://movie.example.com/data/rating/12> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "5.4"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 623;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0056404> .
+
+<http://movie.example.com/data/rating/13> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 47921;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0072562> .
+
+<http://movie.example.com/data/rating/14> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "5.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 33454;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0078723> .
+
+<http://movie.example.com/data/rating/15> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 195800;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0080455> .
+
+<http://movie.example.com/data/rating/16> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.4"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 119490;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0077975> .
+
+<http://movie.example.com/data/rating/17> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 115595;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0060827> .
+
+<http://movie.example.com/data/rating/18> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 181771;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0050976> .
+
+<http://movie.example.com/data/rating/19> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 105658;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0050986> .
+
+<http://movie.example.com/data/rating/2> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 12950;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0053137> .
+
+<http://movie.example.com/data/rating/20> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 63169;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0083922> .
+
+<http://movie.example.com/data/rating/21> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 33695;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0077711> .
+
+<http://movie.example.com/data/rating/22> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.5"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 48052;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0038109> .
+
+<http://movie.example.com/data/rating/23> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 28282;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0036855> .
+
+<http://movie.example.com/data/rating/24> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.5"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 559393;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0034583> .
+
+<http://movie.example.com/data/rating/25> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 30986;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0042593> .
+
+<http://movie.example.com/data/rating/26> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.7"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 77846;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0043265> .
+
+<http://movie.example.com/data/rating/27> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.5"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 559393;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0034583> .
+
+<http://movie.example.com/data/rating/28> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 34221;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0037382> .
+
+<http://movie.example.com/data/rating/29> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 152737;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0047296> .
+
+<http://movie.example.com/data/rating/3> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 29880;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0050419> .
+
+<http://movie.example.com/data/rating/30> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.5"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 650928;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0078788> .
+
+<http://movie.example.com/data/rating/31> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 53374;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0070849> .
+
+<http://movie.example.com/data/rating/32> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "9.2"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 1781216;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0068646> .
+
+<http://movie.example.com/data/rating/33> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 14635;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0057877> .
+
+<http://movie.example.com/data/rating/34> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 16955;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0059749> .
+
+<http://movie.example.com/data/rating/35> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 74429;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0061184> .
+
+<http://movie.example.com/data/rating/36> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 71548;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0087803> .
+
+<http://movie.example.com/data/rating/37> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 13899;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0031867> .
+
+<http://movie.example.com/data/rating/38> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 32455;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0042041> .
+
+<http://movie.example.com/data/rating/39> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 15407;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0035575> .
+
+<http://movie.example.com/data/rating/4> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 2570;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0031983> .
+
+<http://movie.example.com/data/rating/40> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 21403;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0029870> .
+
+<http://movie.example.com/data/rating/41> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.7"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 18162;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0034167> .
+
+<http://movie.example.com/data/rating/42> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 9284;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0035896> .
+
+<http://movie.example.com/data/rating/43> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 103133;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0044706> .
+
+<http://movie.example.com/data/rating/44> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 21367;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0027996> .
+
+<http://movie.example.com/data/rating/45> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 16818;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0035140> .
+
+<http://movie.example.com/data/rating/46> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.2"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 129585;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0042192> .
+
+<http://movie.example.com/data/rating/47> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.5"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 11072;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0031210> .
+
+<http://movie.example.com/data/rating/48> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 54987;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0056687> .
+
+<http://movie.example.com/data/rating/49> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 4226;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0048317> .
+
+<http://movie.example.com/data/rating/5> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.3"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 61607;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0071877> .
+
+<http://movie.example.com/data/rating/50> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.2"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 9891;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0045591> .
+
+<http://movie.example.com/data/rating/51> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.4"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 17219;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0053172> .
+
+<http://movie.example.com/data/rating/52> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.4"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 63833;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0049470> .
+
+<http://movie.example.com/data/rating/53> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 7628;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0040806> .
+
+<http://movie.example.com/data/rating/54> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 50617;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0029843> .
+
+<http://movie.example.com/data/rating/55> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 15685;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0041452> .
+
+<http://movie.example.com/data/rating/56> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.2"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 310164;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0031381> .
+
+<http://movie.example.com/data/rating/57> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 38264;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0049261> .
+
+<http://movie.example.com/data/rating/58> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.7"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 89439;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0048545> .
+
+<http://movie.example.com/data/rating/59> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 44976;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0048028> .
+
+<http://movie.example.com/data/rating/6> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 19872;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0117057> .
+
+<http://movie.example.com/data/rating/60> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.2"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 188;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0039123> .
+
+<http://movie.example.com/data/rating/61> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 3156;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0069946> .
+
+<http://movie.example.com/data/rating/62> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.2"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 104896;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt8847712> .
+
+<http://movie.example.com/data/rating/63> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 122931;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0096320> .
+
+<http://movie.example.com/data/rating/64> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 406615;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0091763> .
+
+<http://movie.example.com/data/rating/65> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 6663;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0021156> .
+
+<http://movie.example.com/data/rating/66> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.3"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 76263;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0055031> .
+
+<http://movie.example.com/data/rating/67> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 103480;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0052311> .
+
+<http://movie.example.com/data/rating/68> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.4"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 122088;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0051201> .
+
+<http://movie.example.com/data/rating/69> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "6.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 23652;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0080736> .
+
+<http://movie.example.com/data/rating/7> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.8"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 34221;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0037382> .
+
+<http://movie.example.com/data/rating/70> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 133203;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0054331> .
+
+<http://movie.example.com/data/rating/71> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.3"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 11640;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0049456> .
+
+<http://movie.example.com/data/rating/72> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 35360;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0043338> .
+
+<http://movie.example.com/data/rating/73> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 48310;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0050783> .
+
+<http://movie.example.com/data/rating/74> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 116418;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0056801> .
+
+<http://movie.example.com/data/rating/75> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 72034;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0053779> .
+
+<http://movie.example.com/data/rating/76> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 43120;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0071129> .
+
+<http://movie.example.com/data/rating/77> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "9.0"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 763788;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0050083> .
+
+<http://movie.example.com/data/rating/78> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "8.1"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 91628;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0032551> .
+
+<http://movie.example.com/data/rating/79> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.4"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 28189;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0051207> .
+
+<http://movie.example.com/data/rating/8> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.9"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 84582;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0038355> .
+
+<http://movie.example.com/data/rating/80> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 31130;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0082846> .
+
+<http://movie.example.com/data/rating/9> a <http://www.example.com/movieontology#Rating>;
+  <http://www.example.com/movieontology#hasAverageRating> "7.6"^^<http://www.w3.org/2001/XMLSchema#float>;
+  <http://www.example.com/movieontology#hasTotal> 3808;
+  <http://www.example.com/movieontology#rates> <http://movie.example.com/data/movie/tt0054452> .

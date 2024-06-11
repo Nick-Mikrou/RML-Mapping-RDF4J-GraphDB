@@ -1,0 +1,84 @@
+Results for the QUERY3
+
+Description : This SPARQL query retrieves the count of movies for each genre.
+
+
+-------------------- Result 1 --------------------------
+Genre : "Romance"
+Count : "6"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 2 --------------------------
+Genre : "Comedy"
+Count : "7"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 3 --------------------------
+Genre : "Adventure"
+Count : "4"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 4 --------------------------
+Genre : "Drama"
+Count : "26"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 5 --------------------------
+Genre : "History"
+Count : "1"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 6 --------------------------
+Genre : "Biography"
+Count : "5"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 7 --------------------------
+Genre : "War"
+Count : "3"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 8 --------------------------
+Genre : "Crime"
+Count : "6"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 9 --------------------------
+Genre : "Film-Noir"
+Count : "5"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 10 --------------------------
+Genre : "Mystery"
+Count : "3"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 11 --------------------------
+Genre : "Action"
+Count : "2"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 12 --------------------------
+Genre : "Western"
+Count : "3"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 13 --------------------------
+Genre : "Music"
+Count : "3"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 14 --------------------------
+Genre : "Sci-Fi"
+Count : "4"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 15 --------------------------
+Genre : "Horror"
+Count : "1"^^<http://www.w3.org/2001/XMLSchema#integer>
+
+
+-------------------- Result 16 --------------------------
+Genre : "Thriller"
+Count : "1"^^<http://www.w3.org/2001/XMLSchema#integer>
+

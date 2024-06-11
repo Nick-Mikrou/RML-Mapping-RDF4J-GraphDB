@@ -1,0 +1,179 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix ex: <http://www.example.com/movieontology#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix schema: <http://schema.org/> .
+@prefix dc: <http://purl.org/dc/terms/>.
+@prefix lcc-3166-1: <https://www.omg.org/spec/LCC/Countries/ISO3166-1-CountryCodes/> .
+@prefix lcc-lr: <https://www.omg.org/spec/LCC/Languages/LanguageRepresentation/> .
+@prefix domain: <http://www.examples.org/movies#>.
+
+@base <http://movie.example.com/data/m>.
+
+<#ActorMapping> a rr:TriplesMap;
+rml:logicalSource [
+  rml:source "../../csv/actors.csv" ;
+  rml:referenceFormulation ql:CSV
+];
+
+rr:subjectMap [
+  rr:template "http://movie.example.com/data/actor/{id}";
+  rr:class ex:Actor
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:id;
+  rr:objectMap [
+     rml:reference "id"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasName;
+  rr:objectMap [
+     rml:reference "primaryName"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasBirthday;
+  rr:objectMap [
+     rml:reference "birthYear";
+     rr:datatype xsd:gYear
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:actedIn;
+  rr:objectMap [
+     rr:template "http://movie.example.com/data/movie/{knownForTitles0}";
+  ];
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:actedIn;
+  rr:objectMap [
+     rr:template "http://movie.example.comdata/data/movie/{knownForTitles1}";
+  ];
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:actedIn;
+  rr:objectMap [
+     rr:template "http://movie.example.com/data/movie/{knownForTitles2}";
+  ];
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:actedIn;
+  rr:objectMap [
+     rr:template "http://movie.example.com/data/movie/{knownForTitles3}";
+  ];
+].
+
+<#MovieMapping> a rr:TriplesMap;
+rml:logicalSource [
+  rml:source "../../csv/movies.csv" ;
+  rml:referenceFormulation ql:CSV
+];
+
+rr:subjectMap [
+  rr:template "http://movie.example.com/data/movie/{tconst}";
+  rr:class ex:Movie
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:tconst;
+  rr:objectMap [
+     rml:reference "tconst"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasTitleType;
+  rr:objectMap [
+     rml:reference "titleType"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasPrimaryTitle;
+  rr:objectMap [
+     rml:reference "primaryTitle"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasOriginalTitle;
+  rr:objectMap [
+     rml:reference "originalTitle"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:isAdultContent;
+  rr:objectMap [
+     rml:reference "isAdult";
+     rr:datatype xsd:boolean
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasStartYear;
+  rr:objectMap [
+     rml:reference "startYear";
+     rr:datatype xsd:integer
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasRuntimeMinutes;
+  rr:objectMap [
+     rml:reference "runtimeMinutes";
+     rr:datatype xsd:integer
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasGenres;
+  rr:objectMap [
+     rml:reference "genres";
+     rr:datatype xsd:string
+  ]
+].
+
+<#RatingMapping> a rr:TriplesMap;
+rml:logicalSource [
+  rml:source "../../csv/ratings.csv" ;
+  rml:referenceFormulation ql:CSV
+];
+
+rr:subjectMap [
+  rr:template "http://movie.example.com/data/rating/{id}";
+  rr:class ex:Rating
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:rates;
+  rr:objectMap [
+     rr:template "http://movie.example.com/data/movie/{movie}";
+  ];
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasAverageRating;
+  rr:objectMap [
+     rml:reference "average";
+     rr:datatype xsd:float
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:hasTotal;
+  rr:objectMap [
+     rml:reference "total";
+     rr:datatype xsd:integer
+  ]
+].

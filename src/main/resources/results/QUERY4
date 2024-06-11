@@ -1,0 +1,274 @@
+Results for the QUERY4
+
+Description : This SPARQL query calculates the average rating and average runtime for movies released in each year
+
+
+-------------------- Result 1 --------------------------
+Start_Year : "1930"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.0"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "92"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 2 --------------------------
+Start_Year : "1936"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.8"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "115"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 3 --------------------------
+Start_Year : "1938"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.9"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "99.5"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 4 --------------------------
+Start_Year : "1939"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.625"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "135.25"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 5 --------------------------
+Start_Year : "1940"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "129"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 6 --------------------------
+Start_Year : "1941"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.7"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "134"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 7 --------------------------
+Start_Year : "1942"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.125"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "111.75"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 8 --------------------------
+Start_Year : "1943"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "6.8"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "170"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 9 --------------------------
+Start_Year : "1944"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.8000007"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "104.666666666666666666666667"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 10 --------------------------
+Start_Year : "1945"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.5"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "111"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 11 --------------------------
+Start_Year : "1946"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.9"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "114"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 12 --------------------------
+Start_Year : "1947"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "60"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 13 --------------------------
+Start_Year : "1948"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.6"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "108"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 14 --------------------------
+Start_Year : "1949"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "114.5"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 15 --------------------------
+Start_Year : "1950"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.05"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "116"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 16 --------------------------
+Start_Year : "1951"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.9"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "108"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 17 --------------------------
+Start_Year : "1952"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.0"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "85"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 18 --------------------------
+Start_Year : "1953"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "101"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 19 --------------------------
+Start_Year : "1954"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "108"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 20 --------------------------
+Start_Year : "1955"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.533333"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "117"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 21 --------------------------
+Start_Year : "1956"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "128.6"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 22 --------------------------
+Start_Year : "1957"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.116668"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "102"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 23 --------------------------
+Start_Year : "1958"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.0"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "95"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 24 --------------------------
+Start_Year : "1959"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.25"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "118"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 25 --------------------------
+Start_Year : "1960"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.8333335"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "166.333333333333333333333333"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 26 --------------------------
+Start_Year : "1961"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.3"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "179"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 27 --------------------------
+Start_Year : "1962"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "6.7"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "118"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 28 --------------------------
+Start_Year : "1963"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.75"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "120.5"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 29 --------------------------
+Start_Year : "1964"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.8"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "148"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 30 --------------------------
+Start_Year : "1965"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.6"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "112"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 31 --------------------------
+Start_Year : "1966"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.05"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "108"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 32 --------------------------
+Start_Year : "1972"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.05"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "152"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 33 --------------------------
+Start_Year : "1973"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "6.95"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "113.5"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 34 --------------------------
+Start_Year : "1974"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.15"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "146.5"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 35 --------------------------
+Start_Year : "1975"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.0"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "90"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 36 --------------------------
+Start_Year : "1978"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.75"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "104"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 37 --------------------------
+Start_Year : "1979"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.15"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "132.5"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 38 --------------------------
+Start_Year : "1980"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.25"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "118"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 39 --------------------------
+Start_Year : "1981"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.6"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "109"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 40 --------------------------
+Start_Year : "1982"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "188"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 41 --------------------------
+Start_Year : "1984"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "113"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 42 --------------------------
+Start_Year : "1986"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "8.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "120"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 43 --------------------------
+Start_Year : "1988"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "6.1"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "107"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 44 --------------------------
+Start_Year : "1996"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "6.6"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "126"^^<http://www.w3.org/2001/XMLSchema#decimal>
+
+
+-------------------- Result 45 --------------------------
+Start_Year : "2021"^^<http://www.w3.org/2001/XMLSchema#integer>
+Average_Rating : "7.2"^^<http://www.w3.org/2001/XMLSchema#float>
+Average_Runtime : "107"^^<http://www.w3.org/2001/XMLSchema#decimal>
+

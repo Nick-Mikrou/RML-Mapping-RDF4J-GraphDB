@@ -1,0 +1,10 @@
+Results for the QUERY5
+
+Description : This SPARQL query retrieves the actor who has appeared in the most movies.
+
+
+-------------------- Result 1 --------------------------
+Actor : http://movie.example.com/data/actor/nm0000001
+Actor_Name : "Fred Astaire"
+Movies_Count : "4"^^<http://www.w3.org/2001/XMLSchema#integer>
+

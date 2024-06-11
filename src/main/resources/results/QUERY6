@@ -1,0 +1,84 @@
+Results for the QUERY6
+
+Description : This SPARQL query retrieves the average rating for each movie genre
+
+
+-------------------- Result 1 --------------------------
+Genre : "Romance"
+Average_Rating : "7.1333337"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 2 --------------------------
+Genre : "Comedy"
+Average_Rating : "7.3428574"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 3 --------------------------
+Genre : "Adventure"
+Average_Rating : "7.6400003"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 4 --------------------------
+Genre : "Drama"
+Average_Rating : "7.82963"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 5 --------------------------
+Genre : "History"
+Average_Rating : "8.2"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 6 --------------------------
+Genre : "Biography"
+Average_Rating : "7.46"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 7 --------------------------
+Genre : "War"
+Average_Rating : "8.35"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 8 --------------------------
+Genre : "Crime"
+Average_Rating : "7.733333"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 9 --------------------------
+Genre : "Film-Noir"
+Average_Rating : "7.85"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 10 --------------------------
+Genre : "Mystery"
+Average_Rating : "8.166667"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 11 --------------------------
+Genre : "Action"
+Average_Rating : "7.55"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 12 --------------------------
+Genre : "Western"
+Average_Rating : "7.6"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 13 --------------------------
+Genre : "Music"
+Average_Rating : "7.7333336"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 14 --------------------------
+Genre : "Sci-Fi"
+Average_Rating : "6.7000003"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 15 --------------------------
+Genre : "Horror"
+Average_Rating : "8.0"^^<http://www.w3.org/2001/XMLSchema#float>
+
+
+-------------------- Result 16 --------------------------
+Genre : "Thriller"
+Average_Rating : "7.6"^^<http://www.w3.org/2001/XMLSchema#float>
+
